@@ -1,6 +1,4 @@
-Perfect! Here's a **professional, GitHub-ready README.md** for your digital clock project, with badges, screenshots section, and a more attractive layout:
 
-```markdown
 # ⏰ Digital Clock in C
 
 ![C Language](https://img.shields.io/badge/Language-C-blue)
