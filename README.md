@@ -11,7 +11,7 @@ A simple **digital clock** program written in C that displays the current time i
 
 ## Features
 
-- Real-time display of hours, minutes, and seconds.
+- Real-time display of hours, minutes, and seconds
 - Automatically increments time and rolls over after 24 hours.
 - Console-based, lightweight, and simple.
 - Works on **Windows** (`cls`) and **Linux** (`clear`) with minor changes.
